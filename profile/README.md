@@ -35,6 +35,9 @@ Below are some of our important repositories:
 - [TelomereHunter](https://github.com/DKFZ-ABI/TelomereHunter)  
   _Estimating telomere content from genome sequencing data._
 
+- [TelomereHunter2](https://github.com/DKFZ-ABI/TelomereHunter2)  
+  _Parallelized py3 and containerized update for estimating telomere content from genome sequencing data._
+
 - [methview.qc](https://github.com/DKFZ-ABI/methview.qc)  
   _HM450.QCView for quality control of Human Methylation 450K datasets._
 
